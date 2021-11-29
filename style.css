@@ -1,0 +1,20 @@
+body
+{
+    background-color: lightcoral;
+    text-align: center;
+}
+
+h3
+{
+  font-size: 25px !important;
+}
+canvas {
+    border:1px solid black;
+}
+
+label
+{
+    color: rgb(52, 39, 226);
+    font-size: 30px;
+    font-family: monospace;
+}
